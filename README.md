@@ -12,7 +12,6 @@ Provide a short description explaining the what, why, and how of your project. U
 The problem it solves is building a text editor that runs on a browser and and can be functional offline.
 - What did you learn?
 
-
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
@@ -25,10 +24,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
+  ![homePageScreenshot](./images/homePage.jpeg)
     
-  ![Screenshot](./assets/images/)
-    
-
 ## Credits
 CHARLES PUENTE-MATOS ONE OF THE TUTORING TEACHERS ASSISTED ME ON PART OF THIS ASSIGNMENT!
 I DID USE YOUTUBE AND OTHER SITES TO HELP ME IMPLEMENT AND COME TO AN UNDERSTANDING OF CODE THAT I AM USING!!!
